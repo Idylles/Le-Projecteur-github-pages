@@ -1,0 +1,89 @@
+body{
+	background-image: url("../images/confectionary.png");
+	font-family: "open sans"
+}
+
+
+
+#footer{
+	background-color: black;
+	color: #aaaaaa;
+	padding-top: 3em
+	padding-bottom: 3em;
+}
+
+#footer a {
+	color:#aaaaaa;
+}
+
+#footer a:hover {
+	color: #ddd;
+}
+
+.social a{
+font-size: 24px
+}
+
+#wrapper{
+	background-image: url("../images/photoface.png");
+	background-size: cover;
+	padding-top: 50px;
+	text-align: center;
+	height: 550px;
+	color: white;
+	text-shadow: 2px 2px 5px grey;
+}
+
+#wrapper h1 {
+	font-size: 60px;
+	padding-left: 200px;
+}
+
+#wrapper h2{
+	font-size: 30px;
+	padding-left: 200px;
+	padding-bottom: 30px
+}
+
+#bouton {
+	font-size: 20px;
+	padding-left:200;
+
+}
+#intro {
+	padding: 50px;
+}
+
+.spacer{
+	padding-top: 8em;
+}
+
+.feature{
+
+}
+
+.navbar-transparent {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+  
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: #eeeeee;
+  line-height: 50px;
+}
+  
+.navbar-transparent .navbar-nav > li > a:hover,
+.navbar-transparent .navbar-nav > li > a:active,
+.navbar-transparent .navbar-nav > li > a:focus,
+.navbar-transparent .navbar-nav > .open > a,
+.navbar-transparent .navbar-nav > .open > a:hover,
+.navbar-transparent .navbar-nav > .open > a:focus {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
